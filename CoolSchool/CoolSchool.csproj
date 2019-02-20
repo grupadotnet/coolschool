@@ -14,8 +14,6 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
-    <Folder Include="wwwroot\css\home\" />
-    <Folder Include="wwwroot\js\home\" />
     <Folder Include="wwwroot\prod\" />
   </ItemGroup>
 
